@@ -1,3 +1,5 @@
+![Banner](images/banner.jpeg)
+
 # 💫 About Me:
 🧑🏼‍💻 I am studying software engineering<br>✨ Doing things for fun<br>🤙🏼 Usually exhausted<br>Open for any requests
 
